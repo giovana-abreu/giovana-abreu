@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, world!
 
 <!--
 **giovana-abreu/giovana-abreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+- 🖖 Oi! Meu nome é Giovana Abreu.
+- 😄 Meus pronomes são: ela/dela
+- 💻 Estudante de Analise e Desenvolvimento de Sistemas na FIAP.
+- 📚 Aprendendo Git, Java, Python, HTML, CSS, Javascript, IBM Cloud (Watson Assistant) e SQL.
+- 📫 Quer falar comigo? Pode entrar em contato pelo meu <a href = "https://www.linkedin.com/in/giovana-abreu-/">LinkedIn</a>
+- ⚡ May the force be with you! ⚡
